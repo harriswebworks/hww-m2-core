@@ -1,8 +1,8 @@
 {
     "name": "harriswebworks/module-core",
-    "description": "Harriswebworks Core module for Magento 2 extensions.",
+    "description": "Harris Digital Core module for Magento 2 extensions.",
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -10,10 +10,10 @@
 	"authors": [{
 	    "name": "Enamul Haque",
 	    "email": "emirajbbd@gmail.com",
-		"company": "Harris Web Works"
+		"company": "Harris Digital"
 	}
     ],
-	"homepage": "https://www.harriswebworks.com",
+	"homepage": "https://www.harrisdigital.io",
     "autoload": {
         "files": [
             "registration.php"

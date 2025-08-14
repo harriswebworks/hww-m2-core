@@ -10,6 +10,6 @@
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="Harriswebworks_Core::all" title="Harris Web Works" module="Harriswebworks_Core" sortOrder="60" resource="Harriswebworks_Core::all" />
+        <add id="Harriswebworks_Core::all" title="Harris Digital" module="Harriswebworks_Core" sortOrder="60" resource="Harriswebworks_Core::all" />
     </menu>
 </config>
